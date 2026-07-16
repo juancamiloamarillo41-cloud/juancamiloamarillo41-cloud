@@ -1,56 +1,48 @@
-<h1 align="center">Hola, soy Juan Camilo Amarillo Morales 👋</h1>
+<h1 align="center">Juan Camilo Amarillo Morales</h1>
 
 <p align="center">
-  <b>Ingeniero Mecatrónico</b> · Pontificia Universidad Javeriana<br/>
-  IoT · Sistemas embebidos · TinyML · Desarrollo Android (Kotlin) · Bilingüe 🇬🇧🇪🇸 (Inglés B2)
+  <strong>Desarrollador de Software Junior | Android, Python, IA y sistemas embebidos</strong><br>
+  Estudiante de Ingeniería Mecatrónica · Bogotá, Colombia · Inglés B2 · Disponibilidad de tiempo completo
 </p>
 
 <p align="center">
-  📍 Bogotá, Colombia &nbsp;·&nbsp; 📧 <a href="mailto:juancamiloamarillo41@gmail.com">juancamiloamarillo41@gmail.com</a>
+  <a href="mailto:juancamiloamarillo41@gmail.com">Email</a> ·
+  <a href="https://play.google.com/store/apps/details?id=com.contratoclaro">Google Play</a> ·
+  <a href="https://juancamiloamarillo41-cloud.github.io/contratoclaro-web/">ContratoClaro</a>
 </p>
 
----
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-RAG-4285F4?style=flat-square&logo=googlegemini&logoColor=white">
+  <img alt="TinyML" src="https://img.shields.io/badge/TinyML-Edge_AI-0B7285?style=flat-square">
+</p>
 
-### 👨‍💻 Sobre mí
+## Sobre mí
 
-Ingeniero Mecatrónico (grado 2026) que construye soluciones **de extremo a extremo**: del hardware y el firmware embebido hasta la aplicación móvil que lo controla. Me interesan el **IoT**, los **sistemas embebidos**, el **Machine Learning en el borde (TinyML)** y el **desarrollo Android moderno**. Combino esa base técnica con experiencia profesional atendiendo clientes nacionales e internacionales en inglés y español.
+Construyo soluciones de extremo a extremo: desde la adquisición y el procesamiento de datos hasta aplicaciones móviles e integraciones con inteligencia artificial. Actualmente curso Ingeniería Mecatrónica en la Pontificia Universidad Javeriana, con graduación prevista para septiembre de 2026, y busco oportunidades como **desarrollador de software junior**.
 
-- 🔭 Trabajando en dispositivos **IoT con ML embebido** y apps Android en **Kotlin + Jetpack Compose**.
-- 🌱 Aprendiendo: Edge Impulse, arquitecturas Android modernas (MVVM), automatización industrial (Industria 4.0).
-- 🗣️ Inglés B2 con uso profesional; español nativo.
+Mis proyectos combinan desarrollo Android, APIs de IA, RAG, datos en la nube, Bluetooth Low Energy y Machine Learning embebido. Me interesa trabajar en equipos donde pueda convertir problemas reales en productos claros, medibles y mantenibles.
 
----
+## Proyectos destacados
 
-### 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
+| Proyecto | Resultado | Tecnologías |
 |---|---|---|
-| **[WearMe](https://github.com/juancamiloamarillo41-cloud/wearme)** | Wearable IoT para detección de **metano entérico en ganado**, con inferencia de ML embebida en tiempo real y app móvil que recibe datos por BLE y graba video sincronizado. | `Kotlin` · `Compose` · `BLE` · `CameraX` · `C/C++` · `nRF52840` · `Edge Impulse` · `TinyML` |
-| **[ContratoClaro](https://github.com/juancamiloamarillo41-cloud/contratoclaro-web)** | App Android que ayuda a entender contratos legales en lenguaje claro usando IA. | `Android` · `Firebase` · `IA` |
-| **[Código de tesis](https://github.com/juancamiloamarillo41-cloud/Codigo_tesis)** | Datos y artefactos del proyecto de investigación WearMe (sesiones de captura en campo). | `Datos` · `CSV` |
+| **[ContratoClaro](https://juancamiloamarillo41-cloud.github.io/contratoclaro-web/)** | Aplicación Android desarrollada de forma individual y publicada en Google Play en 2 meses. Analiza contratos y genera explicaciones con contexto legal. **[Ver aplicación](https://play.google.com/store/apps/details?id=com.contratoclaro)** | Kotlin, Android, Gemini, RAG, Vertex AI, Firestore, Google Play Billing |
+| **[WearMe](https://github.com/juancamiloamarillo41-cloud/wearme)** | Wearable TinyML validado con aproximadamente 8 horas de datos reales y cerca de 70 % de precisión en condiciones de campo. | Python, C/C++, Edge Impulse, nRF52840, Kotlin, Compose, BLE |
+| **[Dataset WearMe](https://github.com/juancamiloamarillo41-cloud/Codigo_tesis)** | 166.945 registros de sensores organizados en 10 archivos de sesiones de campo, con 25 variables por muestra. | CSV, IMU, metano, temperatura, humedad, procesamiento de datos |
 
----
+## Competencias
 
-### 🛠️ Tecnologías
+- **Programación:** Python, Kotlin, Java, C y C++.
+- **IA y datos:** Gemini API, RAG, Vertex AI, NLP, TinyML, Edge Impulse y Power BI.
+- **Desarrollo:** Android, Jetpack Compose, APIs REST, JSON, Git y GitHub.
+- **Nube y persistencia:** Firebase, Firestore y fundamentos de SQL y Google Cloud.
+- **Sistemas embebidos:** BLE, Arduino, ESP32, STM32, XIAO nRF52840 y sensores IMU.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## Contacto
 
-**Áreas:** IoT · Sistemas embebidos · TinyML / Edge ML · BLE · Diseño de PCB · Desarrollo Android · Análisis de datos (Excel avanzado, Power BI) · SolidWorks
-
----
-
-### 📫 Contacto
-
-- 📧 **Email:** juancamiloamarillo41@gmail.com
-
-<p align="center"><i>Construyendo desde el sensor hasta la app. 🔧📱</i></p>
+- Email: [juancamiloamarillo41@gmail.com](mailto:juancamiloamarillo41@gmail.com)
+- Ubicación: Bogotá, Colombia
+- Inglés: B2, con experiencia de atención profesional
+- Disponibilidad: tiempo completo, presencial, híbrida o remota
