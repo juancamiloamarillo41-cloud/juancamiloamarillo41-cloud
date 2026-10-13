@@ -1,48 +1,60 @@
 <h1 align="center">Juan Camilo Amarillo Morales</h1>
 
 <p align="center">
-  <strong>Desarrollador de Software Junior | Android, Python, IA y sistemas embebidos</strong><br>
-  Estudiante de Ingeniería Mecatrónica · Bogotá, Colombia · Inglés B2 · Disponibilidad de tiempo completo
+  <strong>Analista de Datos Jr. | Desarrollo de sistemas embebidos e IA</strong><br>
+  Ingeniero Mecatrónico, Pontificia Universidad Javeriana · Bogotá, Colombia · Inglés B2
 </p>
 
 <p align="center">
   <a href="mailto:juancamiloamarillo41@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/juan-camilo-amarillo-morales-943290398">LinkedIn</a> ·
   <a href="https://play.google.com/store/apps/details?id=com.contratoclaro">Google Play</a> ·
   <a href="https://juancamiloamarillo41-cloud.github.io/contratoclaro-web/">ContratoClaro</a>
 </p>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-RAG-4285F4?style=flat-square&logo=googlegemini&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-Consultas-336791?style=flat-square">
+  <img alt="Python" src="https://img.shields.io/badge/Python-pandas-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="TinyML" src="https://img.shields.io/badge/TinyML-Edge_AI-0B7285?style=flat-square">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 </p>
 
 ## Sobre mí
 
-Construyo soluciones de extremo a extremo: desde la adquisición y el procesamiento de datos hasta aplicaciones móviles e integraciones con inteligencia artificial. Actualmente curso Ingeniería Mecatrónica en la Pontificia Universidad Javeriana, con graduación prevista para septiembre de 2026, y busco oportunidades como **desarrollador de software junior**.
+Trabajo en dos frentes que se complementan: **análisis de datos** y **desarrollo de sistemas embebidos**.
 
-Mis proyectos combinan desarrollo Android, APIs de IA, RAG, datos en la nube, Bluetooth Low Energy y Machine Learning embebido. Me interesa trabajar en equipos donde pueda convertir problemas reales en productos claros, medibles y mantenibles.
+En datos, preparo, valido y cruzo información con Python (pandas), SQL y Excel, y la convierto en tableros de Power BI e indicadores que un equipo puede usar para decidir. En sistemas embebidos, construyo la parte que genera esos datos: sensores, comunicación BLE, modelos TinyML y la aplicación que los recibe.
 
-## Proyectos destacados
+Soy Ingeniero Mecatrónico de la Pontificia Universidad Javeriana. Busco oportunidades como **Analista de Datos Jr. o Analista BI**, y en equipos donde los datos salgan de hardware y procesos reales.
 
-| Proyecto | Resultado | Tecnologías |
+## Análisis de datos
+
+| Proyecto | Qué hice | Tecnologías |
 |---|---|---|
-| **[ContratoClaro](https://juancamiloamarillo41-cloud.github.io/contratoclaro-web/)** | Aplicación Android desarrollada de forma individual y publicada en Google Play en 2 meses. Analiza contratos y genera explicaciones con contexto legal. **[Ver aplicación](https://play.google.com/store/apps/details?id=com.contratoclaro)** | Kotlin, Android, Gemini, RAG, Vertex AI, Firestore, Google Play Billing |
-| **[WearMe](https://github.com/juancamiloamarillo41-cloud/wearme)** | Wearable TinyML validado con aproximadamente 8 horas de datos reales y cerca de 70 % de precisión en condiciones de campo. | Python, C/C++, Edge Impulse, nRF52840, Kotlin, Compose, BLE |
-| **[Dataset WearMe](https://github.com/juancamiloamarillo41-cloud/Codigo_tesis)** | 166.945 registros de sensores organizados en 10 archivos de sesiones de campo, con 25 variables por muestra. | CSV, IMU, metano, temperatura, humedad, procesamiento de datos |
+| **[Dataset WearMe](https://github.com/juancamiloamarillo41-cloud/Codigo_tesis)** | Organicé 166.945 registros de sensores en 10 archivos de sesiones de campo, con 25 variables por muestra, listos para análisis y entrenamiento de modelos. | CSV, Python, IMU, metano, temperatura, humedad |
+| **[Agente de consulta de proyectos](https://github.com/juancamiloamarillo41-cloud/agente-consulta-proyectos)** | Agente en Python que responde preguntas sobre informes de cierre de proyectos, con fuentes citadas y trazabilidad de cada consulta. | Python, SQL, búsqueda BM25, Gemini |
+| **Mazda – Maztech** | Proyecto universitario en colaboración con Mazda: participé en un sistema de visualización de puntajes con 6 dashboards usados por los jurados de la competencia. | Power BI, Microsoft Forms, modelado de tablas |
+
+## Sistemas embebidos y desarrollo
+
+| Proyecto | Qué hice | Tecnologías |
+|---|---|---|
+| **[WearMe](https://github.com/juancamiloamarillo41-cloud/wearme)** | Wearable con TinyML para monitoreo de metano entérico, validado con cerca de 8 horas de datos reales y alrededor de 70 % de precisión en campo. Incluye la app Android que recibe los datos por BLE. | C/C++, Edge Impulse, nRF52840, Kotlin, Compose, BLE |
+| **[ContratoClaro](https://juancamiloamarillo41-cloud.github.io/contratoclaro-web/)** | Aplicación Android desarrollada de forma individual y publicada en Google Play. Analiza contratos y genera explicaciones con contexto legal. **[Ver aplicación](https://play.google.com/store/apps/details?id=com.contratoclaro)** | Kotlin, Android, Gemini, RAG, Vertex AI, Firestore |
 
 ## Competencias
 
-- **Programación:** Python, Kotlin, Java, C y C++.
-- **IA y datos:** Gemini API, RAG, Vertex AI, NLP, TinyML, Edge Impulse y Power BI.
-- **Desarrollo:** Android, Jetpack Compose, APIs REST, JSON, Git y GitHub.
-- **Nube y persistencia:** Firebase, Firestore y fundamentos de SQL y Google Cloud.
-- **Sistemas embebidos:** BLE, Arduino, ESP32, STM32, XIAO nRF52840 y sensores IMU.
+- **Análisis y visualización de datos:** Power BI (Power Query, DAX básico), Excel avanzado, indicadores KPI y reportes operativos.
+- **Datos y bases de datos:** SQL, Python con pandas, limpieza, validación y control de duplicados.
+- **Sistemas embebidos:** BLE, Arduino, ESP32, STM32, XIAO nRF52840, sensores IMU, TinyML y Edge Impulse.
+- **Desarrollo:** Kotlin, Android, Jetpack Compose, C y C++, APIs REST, Git y GitHub.
+- **IA y nube:** Gemini API, RAG, Vertex AI, Firebase y Firestore.
 
 ## Contacto
 
 - Email: [juancamiloamarillo41@gmail.com](mailto:juancamiloamarillo41@gmail.com)
+- LinkedIn: [juan-camilo-amarillo-morales](https://www.linkedin.com/in/juan-camilo-amarillo-morales-943290398)
 - Ubicación: Bogotá, Colombia
 - Inglés: B2, con experiencia de atención profesional
 - Disponibilidad: tiempo completo, presencial, híbrida o remota
